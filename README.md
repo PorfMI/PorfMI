@@ -25,6 +25,7 @@ Student specializing in C++ backend development. I am passionate about solving c
 
 * **University:** Lobachevsky State University of Nizhny Novgorod (UNN), IITMM, CS (FIIT).
 * **Location:** Nizhny Novgorod, Russia
+* **Telegram:** @PorfMI
 * **Email:** bear.porf@gmail.com
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@PorfMI)

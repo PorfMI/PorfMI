@@ -27,5 +27,5 @@ Student specializing in C++ backend development. I am passionate about solving c
 * **Location:** Nizhny Novgorod, Russia
 * **Email:** bear.porf@gmail.com
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ТВОЙ_НИК)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@PorfMI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bear.porf@gmail.com)

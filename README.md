@@ -17,7 +17,7 @@ Student specializing in C++ backend development. I am passionate about solving c
 ### Key Professional Experience & Projects
 
 * **Out-of-Core Data Processing Utility:** Developed a C++ utility for out-of-core processing of extremely large text files. Designed memory management logic and optimized file I/O to prevent RAM overflow. Integrated the application with S3-compatible storage (MinIO) using the AWS SDK. Successfully implemented a random shuffle algorithm for strings in files that significantly exceed available RAM. Built a reliable pipeline for streaming large volumes of data over the network, minimizing peak system load.
-* **Global Search Algorithm (GSA) Implementation:** Designed the architecture for a high-performance C++ application focused on computationally complex mathematical operations. Developed software solutions for multidimensional optimization tasks and functions with constraints. Successfully translated a complex mathematical model into working code, implementing Strongin's Global Search Algorithm (GSA) in C++. Applied the developed algorithm to solve practical tasks, including hyperparameter tuning for ML models (XGBoost, MLP).
+* **Global Search Algorithm (GSA) Implementation:** Designed the architecture for a high-performance C++ application focused on computationally complex mathematical operations. Developed software solutions for multidimensional optimization tasks and functions with constraints. Successfully translated a complex mathematical model into working code, implementing Strongin's Global Search Algorithm (GSA) in C++.
 
 ---
 
